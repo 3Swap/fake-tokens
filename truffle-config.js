@@ -96,7 +96,7 @@
        provider: () =>
          new HDWalletProvider({
            privateKeys: [PRIVATE_KEY],
-           providerOrUrl: 'wss://speedy-nodes-nyc.moralis.io/558120230227a848a2bb7043/eth/ropsten/ws'
+           providerOrUrl: 'wss://eth-ropsten.alchemyapi.io/v2/6u94O6TXVZnIC7N9xzfhR-HFch2p9ycX'
          }),
        network_id: 3,
        confirmations: 2,
