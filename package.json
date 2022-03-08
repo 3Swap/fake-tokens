@@ -1,0 +1,31 @@
+{
+  "name": "3swap-fake-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy:bsc": "truffle migrate --network bsc_testnet",
+    "deploy:avax": "truffle migrate --network avalanche_testnet",
+    "deploy:matic": "truffle migrate --network matic_testnet",
+    "deploy:ftm": "truffle migrate --network fantom_testnet",
+    "deploy:eth": "truffle migrate --network ethereum_testnet",
+    "deploy:all": "yarn deploy:bsc && yarn deploy:avax && yarn deploy:matic && yarn deploy:ftm && yarn deploy:eth"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3Swap/fake-tokens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3Swap/fake-tokens/issues"
+  },
+  "homepage": "https://github.com/3Swap/fake-tokens#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "dotenv": "^16.0.0"
+  }
+}
