@@ -48,7 +48,7 @@
        provider: () =>
          new HDWalletProvider({
            privateKeys: [PRIVATE_KEY],
-           providerOrUrl: 'wss://speedy-nodes-nyc.moralis.io/558120230227a848a2bb7043/bsc/testnet/ws'
+           providerOrUrl: 'wss://ws-nd-829-018-058.p2pify.com/225dc4037130f0ccc242938858c8c44d'
          }),
        network_id: 97,
        confirmations: 2,
@@ -60,7 +60,7 @@
        provider: () =>
          new HDWalletProvider({
            privateKeys: [PRIVATE_KEY],
-           providerOrUrl: 'wss://speedy-nodes-nyc.moralis.io/558120230227a848a2bb7043/polygon/mumbai/ws'
+           providerOrUrl: 'wss://ws-nd-807-258-769.p2pify.com/656d250d18e63120121b688dd3665cca'
          }),
        network_id: 80001,
        confirmations: 2,
@@ -84,7 +84,7 @@
        provider: () =>
          new HDWalletProvider({
            privateKeys: [PRIVATE_KEY],
-           providerOrUrl: 'wss://speedy-nodes-nyc.moralis.io/558120230227a848a2bb7043/avalanche/testnet/ws'
+           providerOrUrl: 'wss://ws-nd-972-523-936.p2pify.com/54d40df2b8635d6db619f345696dd1bb/ext/bc/C/ws'
          }),
        network_id: 43113,
        confirmations: 2,

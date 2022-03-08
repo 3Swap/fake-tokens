@@ -8,3 +8,11 @@
 |0x1Ec4cE240CAb13dd15d144284a93dc8DeD99F41d|0xfa2     |Fake Fantom USD   |
 |0xD75411C6A3fEf2278E51EEaa73cdE8352c59eFEd|0x13881   |Fake Matic USD    |
 |0xb086748cd5b4Cba2e129A40436B3D6Ab6d22ecDE|0x3       |Fake Ropsten USD  |
+
+| Contract Address                         | Chain ID | Name           |
+|------------------------------------------|----------|----------------|
+|0xaE813A658062bDA572c2307deDf4a5948E2a63d3|0x61      |Euler           |
+|0xEeeC1d828520fC26541624c4e2E34376220CB93a|0xa869    |Mudslide        |
+|0xD3F9Ba8b83D5a71bb75a9955A1494d5B1D4E76da|0xfa2     |Apparition Token|
+|0xEeeC1d828520fC26541624c4e2E34376220CB93a|0x13881   |Diligence       |
+|0xa83E55bd93C2Ca31290ac3dfC496040e1d064497|0x3       |Quintessence    |
