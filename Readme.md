@@ -16,3 +16,11 @@
 |0xD3F9Ba8b83D5a71bb75a9955A1494d5B1D4E76da|0xfa2     |Apparition Token|
 |0xEeeC1d828520fC26541624c4e2E34376220CB93a|0x13881   |Diligence       |
 |0xa83E55bd93C2Ca31290ac3dfC496040e1d064497|0x3       |Quintessence    |
+
+| Contract Address                         | Chain ID | Name                 |
+|------------------------------------------|----------|----------------------|
+|0xA39123c6599EFBbC706cD44C361677D67E6d7455|0x61      |Higgs Boson           |
+|0xCA6f864adD2cF45bf2b28FBbC990216Cc759B0Ca|0xa869    |Relativity Token      |
+|0x6E0F01B118e34311680353e5febaa11e706cb7bf|0xfa2     |Vibranium             |
+|0xCA6f864adD2cF45bf2b28FBbC990216Cc759B0Ca|0x13881   |Blackhole             |
+|0x32fF5A3347e4A92f79489664e77c4c5462d6b179|0x3       |The Bane Of Zerubbabel|
