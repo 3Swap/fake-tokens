@@ -10,7 +10,8 @@
     "deploy:matic": "truffle migrate --network matic_testnet",
     "deploy:ftm": "truffle migrate --network fantom_testnet",
     "deploy:eth": "truffle migrate --network ethereum_testnet",
-    "deploy:all": "yarn deploy:bsc && yarn deploy:avax && yarn deploy:matic && yarn deploy:ftm && yarn deploy:eth"
+    "deploy:tlos": "truffle migrate --network telos_testnet",
+    "deploy:all": "yarn deploy:bsc && yarn deploy:avax && yarn deploy:matic && yarn deploy:ftm && yarn deploy:eth && yarn deploy:tlos"
   },
   "repository": {
     "type": "git",

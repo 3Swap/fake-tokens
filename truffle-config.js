@@ -103,7 +103,19 @@
        timeoutBlocks: 20000,
        skipDryRun: true,
        networkCheckTimeout: 20000
-     }
+     },
+     telos_testnet: {
+      provider: () =>
+        new HDWalletProvider({
+          privateKeys: [PRIVATE_KEY],
+          providerOrUrl: 'wss://testnet.telos.net/evm'
+        }),
+      network_id: 41,
+      confirmations: 2,
+      timeoutBlocks: 20000,
+      skipDryRun: true,
+      networkCheckTimeout: 200000
+    }
      // Another network with more advanced options...
      // advanced: {
      // port: 8777,             // Custom port
